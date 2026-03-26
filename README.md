@@ -1,28 +1,23 @@
-# JPMorganChase Software Engineering Job Simulation
+# Wells Fargo Software Engineering Job Simulation
 
-Completed as part of the **JPMorganChase Advanced Software Engineering Job Simulation** on [Forage](https://www.theforage.com/).
+Completed as part of the **Wells Fargo Software Engineering Job Simulation** on [Forage](https://www.theforage.com/).
 
 ## About
 
-This project involved building a Spring Boot microservice that consumes transaction messages via Apache Kafka, validates and persists data to a relational database, and communicates with an external REST API.
+This project focused on designing a data model for a financial portfolio management system. I analyzed requirements, identified the necessary data structures, and created an entity relationship diagram (ERD) to represent the system architecture.
 
 ## What I Built
 
-- Integrated **Apache Kafka** into a Spring Boot microservice to consume and deserialize high-volume transaction messages
-- Implemented transaction validation and persistence with **Spring Data JPA** and an **H2 SQL database**
-- Connected the service to an external **REST Incentive API** using RestTemplate
-- Built a **REST endpoint** for querying user balances with JSON responses
-- Verified system reliability using **Maven test suites** and debugger-driven inspection
+- Analyzed requirements for a financial portfolio management system
+- Identified key entities, attributes, and relationships needed to manage portfolio data
+- Designed an **entity relationship diagram (ERD)** to visually represent the data model
+- Implemented the ERD using **IntelliJ IDEA** and published the project to GitHub
 
 ## Tech Stack
 
 - **Java**
-- **Spring Boot**
-- **Apache Kafka**
-- **Spring Data JPA**
-- **H2 Database**
-- **Maven**
-- **REST APIs**
+- **IntelliJ IDEA**
+- **Git / GitHub** (version control)
 
 ## Author
 
